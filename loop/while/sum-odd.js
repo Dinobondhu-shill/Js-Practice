@@ -10,13 +10,13 @@ while(num <131){
   num++;
 }
 // sum of even numbers
-let num = 206;
-let sum = 0;
-while(num < 312){
-  if(num % 2 ===0){
+let num2 = 206;
+let sum2 = 0;
+while(num2 < 312){
+  if(num2 % 2 ===0){
     console.log(num)
-    sum = sum+num;
-    console.log("The sum is :", sum)
+    sum2 = sum2+num2;
+    console.log("The sum is :", sum2)
   }
-  num++
+  num2++
 }
