@@ -16,3 +16,4 @@ function count_zero(binaryStr){
 
 const binary = "010100010100011101010";
 const binaryCall = count_zero(binary)
+
